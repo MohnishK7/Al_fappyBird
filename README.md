@@ -1,1 +1,2 @@
 # Al_fappyBird
+Implemented NEAT stands for NeuroEvolution of Augmenting Topologies, which is a genetic algorithm designed to efficiently evolve artificial neural network topologies. It’s an awesome technique that addressed some challenges of Topology and Weight Evolving Artiﬁcial Neural Networks (TWEANN). Before we go deeper into NEAT, let’s take a look at two key concepts: Artificial Neural Network (ANN) and Genetic Algorithm (GA).
